@@ -5,5 +5,7 @@ This analysis focuses on exploring the content available on Netflix, including m
 The analysis provides insights into the distribution of content across various parameters and highlights the most popular titles and genres. 
 Additionally, the analysis includes interactive dashboards and charts to facilitate further exploration and understanding of the data.
 
+Link to project : https://public.tableau.com/app/profile/logeswaran.1106/viz/NETFLIXDataAnalysis_16763165328160/Netflix
+
 
 ![Netflix (2)](https://user-images.githubusercontent.com/111060707/218656054-14229f15-ecdd-4d8c-8954-fe660c6b0e61.png)
